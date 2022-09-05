@@ -1,7 +1,7 @@
 # gold-retriever-agents
 * Class interface for the games API
 * Test different AI Agents to maximize the expected utility
-
+* Goal is to perform with low variance greater than 90 points based on human performance
 ## API reference
 https://www.gaimbot.com/games/gold-retriever/
 
