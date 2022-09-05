@@ -6,4 +6,4 @@
 https://www.gaimbot.com/games/gold-retriever/
 
 ## References
-Based on https://www.reddit.com/r/datascience/comments/x5bfbt/i_made_a_game_you_can_play_with_r_or_python_via/
+https://www.reddit.com/r/datascience/comments/x5bfbt/i_made_a_game_you_can_play_with_r_or_python_via/
